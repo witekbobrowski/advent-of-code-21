@@ -8,12 +8,11 @@ func readInput(from path: String) throws -> [Int] {
     let contents = try String(contentsOf: url, encoding: .utf8)
     return contents.split(separator: "\n").compactMap { Int($0) }
 }
-
-print("--- Day 1: Sonar Sweep ---")
-
 let input = try readInput(from: "input/day-01.txt")
 
 // MARK: - Part One
+print("--- Day 1: Sonar Sweep ---")
+
 private func countNumberOfIncreases(from input: [Int]) -> Int {
     input.indices.dropFirst().reduce(0) { sum, index in
         input[index - 1] < input[index] ? sum + 1 : sum
@@ -23,6 +22,7 @@ private func countNumberOfIncreases(from input: [Int]) -> Int {
 print("Solution:", countNumberOfIncreases(from: input))
 // Solution: 1521
 
+// MARK: - Part Two
 print("--- Part Two ---")
 
 private func countNumberOfIncreasesSlidingWindows(from input: [Int]) -> Int {
