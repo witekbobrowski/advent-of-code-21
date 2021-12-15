@@ -8,7 +8,7 @@ My solutions to this years [Advent of Code](https://adventofcode.com) challenge 
 - [x] [Day 2: Dive!](https://adventofcode.com/2021/day/2) [`solution`](day-02.swift)
 - [x] [Day 3: Binary Diagnostic](https://adventofcode.com/2021/day/3) [`solution`](day-03.swift)
 - [x] [Day 4: Giant Squid](https://adventofcode.com/2021/day/4) [`solution`](day-04.swift)
-- [ ] [Day 5: Hydrothermal Venture](https://adventofcode.com/2021/day/5)
+- [x] [Day 5: Hydrothermal Venture](https://adventofcode.com/2021/day/5) [`solution`](day-05.swift)
 - [ ] [Day 6: Lanternfish](https://adventofcode.com/2021/day/6)
 - [ ] [Day 7: The Treachery of Whales](https://adventofcode.com/2021/day/7)
 - [ ] [Day 8: Seven Segment Search](https://adventofcode.com/2021/day/8)
