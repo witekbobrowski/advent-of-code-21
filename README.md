@@ -9,7 +9,7 @@ My solutions to this years [Advent of Code](https://adventofcode.com) challenge 
 - [x] [Day 3: Binary Diagnostic](https://adventofcode.com/2021/day/3) [`solution`](day-03.swift)
 - [x] [Day 4: Giant Squid](https://adventofcode.com/2021/day/4) [`solution`](day-04.swift)
 - [x] [Day 5: Hydrothermal Venture](https://adventofcode.com/2021/day/5) [`solution`](day-05.swift)
-- [ ] [Day 6: Lanternfish](https://adventofcode.com/2021/day/6)
+- [x] [Day 6: Lanternfish](https://adventofcode.com/2021/day/6) [`solution`](day-06.swift)
 - [ ] [Day 7: The Treachery of Whales](https://adventofcode.com/2021/day/7)
 - [ ] [Day 8: Seven Segment Search](https://adventofcode.com/2021/day/8)
 - [ ] [Day 9: Smoke Basin](https://adventofcode.com/2021/day/9)
@@ -18,6 +18,7 @@ My solutions to this years [Advent of Code](https://adventofcode.com) challenge 
 - [ ] [Day 12: Passage Pathing](https://adventofcode.com/2021/day/12)
 - [ ] [Day 13: Transparent Origami](https://adventofcode.com/2021/day/13)
 - [ ] [Day 14: Extended Polymerization](https://adventofcode.com/2021/day/14)
+- [ ] [Day 15: Chiton](https://adventofcode.com/2021/day/15)
 
 #### Usage
 
